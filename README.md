@@ -1,19 +1,23 @@
-# Awesome Webtoon Guidelines
+#  Awesome Webtoon Guidelines 📜 
+<p align="center">
+<!--<img src="" alt="cover"/>-->
+    <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="awesome badge"/> 
+</p>
+
 A curated list of guidelines for making an awesome webtoon. 
 
-Any contributions are welcome!
+Your contributions are welcome!
 
 ### What are webtoons?
 Webtoons (Hangul: 웹툰) are a type of digital comic that originated in South Korea. While webtoons were mostly unknown outside of the country during their inception, there has been a surge in popularity internationally thanks in great part to most manhwa being read on smartphones.
 
-# Contents
+# Table of Content
 ### Getting Started
 - [AIO Ultimate Guides](#creating-webtoons)
 ### Webtoon Elements
 - [Typesetting]()
-- [Writing Dialogue]()
-- 
-- 
+- [Panels]()
+- [Dialogue Writing]()
 ### Other Resources
 - [Digital Art Programs](#digital-art-programs)
 - [Artist Communities](#artist-communities)
@@ -25,7 +29,12 @@ Webtoons (Hangul: 웹툰) are a type of digital comic that originated in South K
 - [Creator's Guide to Tapastic](https://tapas.io/series/Creator)
 
 # Webtoon Elements
-##
+### Typesetting
+-
+### Panels
+-
+
+### Dialogue Writing
 -
 
 # Other Resources
