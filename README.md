@@ -8,11 +8,9 @@ A curated list of guidelines for making an awesome webtoon.
 Any contributions are welcome!
 
 ### What are webtoons?
-```Webtoons (Hangul: 웹툰) are a type of digital comic that originated in South Korea. While webtoons were mostly unknown outside of the country during their inception, there has been a surge in popularity internationally thanks in great part to most manhwa being read on smartphones.
-```
-```
-There are three things that sets webtoons apart from regular comics: each episode is published on one long, vertical strip (making use of an infinite canvas rather than multiple pages so that it is easier to read on a smartphone or computer); they will most likely be in color rather than black-and-white since they are rarely published in physical form; and some will feature music and animations that play during each chapter.
-```
+```Webtoons (Hangul: 웹툰) are a type of digital comic that originated in South Korea. While webtoons were mostly unknown outside of the country during their inception, there has been a surge in popularity internationally thanks in great part to most manhwa being read on smartphones.```
+
+```There are three things that sets webtoons apart from regular comics: each episode is published on one long, vertical strip (making use of an infinite canvas rather than multiple pages so that it is easier to read on a smartphone or computer); they will most likely be in color rather than black-and-white since they are rarely published in physical form; and some will feature music and animations that play during each chapter.```
 
 # 📜 Table of Content
 ### Getting Started
