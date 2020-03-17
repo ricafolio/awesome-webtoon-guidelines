@@ -16,11 +16,11 @@ Contributions in any form are welcome!
 ### Getting Started
 - [Complete Guides](#complete-guides)
 ### Webtoon Elements
-- [Sizes & Formats](#sizes-&-formats)
+- [Sizes and Formats](#sizes-and-formats)
 - [Typesetting](#typesetting)
-  - [Balloons](#bubbles)
+  - [Lettering and Balloons](#1-lettering-and-balloons)
+  - [Free fonts](#2-free-fonts)
   - [SFX](#SFX)
-  - [Free fonts](#free-fonts)
 - [Panels](#panels)
 - [Dialogue Writing](#dialogue-writing)
 - [Publishing](#publishing)
@@ -43,3 +43,38 @@ Contributions in any form are welcome!
 - [How to Make Comics (or Manga) | By Ahkward Kat](https://www.webtoons.com/en/challenge/how-to-make-comics-or-manga/list?title_no=110181)
 - [Creating a Webtoon Series! | By Talart (Youtube)](https://www.youtube.com/watch?v=_2VhYGSqVRA&list=PLbiI3az46e0q5QSqfpTBLe8DtkEWr2GLm)
 - [Creating Webtoon | By Archie The RedCat (Youtube)](https://www.youtube.com/watch?v=ciA9CwaMblg&list=PL5zciq5GgqUYFZPnLm0OibmPFp0cqPvj7)
+
+# Webtoon Elements
+### Sizes and Formats
+- [Creating and Slicing Vertical Comics](https://tapas.io/episode/153301)
+- [Webtoons.com examples](https://www.webtoons.com/en/challenge/webtoon-format/list?title_no=109936&page=1) - actual example of thumbnails and vertical strip with sizes.
+- [How to Pick the Right Image File Type | Tapas Guide](https://tapas.io/episode/188280) - for exporting your image and picking the right file type
+
+### Typesetting
+#### 1. Lettering and Balloons
+  - [AnonBlack's Typesetting Guide](http://mangafox.today/anonblacks-typesetting-guide-webtoon-chapter-203#1)
+  - [Comic Book Lettering Grammar & Tradition](https://blambot.com/pages/comic-book-grammar-tradition)
+  - [insidescanlation's Typesetting Guide](https://www.insidescanlation.com/etc/how-to-edit-manga-with-photoshop/rawr/editguide/2.html)
+  - [10 Mistakes Made by Amateur Letterers](http://beyondthebunker.com/uncategorized/10-mistakes-made-by-amateur-letterers/)
+  - [LIA CAST 120 - Spotting your balloons, with Zack Giallongo](http://www.leanintoart.com/blog/2015/1/16/lia-cast-120-spotting-your-balloons-with-zack-giallongo)
+  - [Typography Tutorial: Leading, Kerning, Tracking](https://www.bigstockphoto.com/blog/uncategorized/typography-tutorial-leading-kerning-tracking/)
+
+#### 2. Free fonts
+
+  ***Dialogue***
+  - CC Wild Words
+  - CC Astro City
+  - CC Jim Lee
+  - CC Kiss and Tell
+  - CC Dear Diary
+  - Anime ace
+  - Playtime with Hot Toddies
+  - Back Issues BB
+
+  ***Handwritten***
+  - Augie
+
+  ***SFX***
+  - Umberto
+  - Trashhand
+  - CC Splashdown
