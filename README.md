@@ -36,6 +36,7 @@ Contributions in any form are welcome!
 
 # Getting Started
 ### Complete Guides
+- [Webtoon Basic Editing Tips](https://www.webtoons.com/en/tiptoon/lozolz/webtoon-editing-tips/viewer?title_no=1268&episode_no=24)
 - [Creator's Guide to Tapastic | By Tapas](https://tapas.io/series/Creator)
 - [Making Comics for both Print and Webtoon | By Clip Studio](https://tips.clip-studio.com/en-us/articles/2812)
 - [Creators 101 | LINE Webtoon (Youtube)](https://www.youtube.com/watch?v=SXKcdt6COr8&list=PLhk8LovViFgshDuttEuvwNanNuFg4k4ZU&index=2)
