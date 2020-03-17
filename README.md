@@ -20,13 +20,14 @@ Contributions in any form are welcome!
 - [Typesetting](#typesetting)
   - [Lettering and Balloons](#1-lettering-and-balloons)
   - [Free fonts](#2-free-fonts)
-  - [SFX](#SFX)
+  - [SFX](#3-SFX)
 - [Panels](#panels)
 - [Dialogue Writing](#dialogue-writing)
 - [Publishing](#publishing)
   - [Places to publish - Webtoon Providers](#webtoon-official-providers)
   - [Slicing](#slicing)
-### Other Resources for improvement
+### Other Resources
+- [Helpful tools](#helpful-tools)
 - [Digital Art Programs](#digital-art-programs)
 - [Artist Communities](#artist-communities)
 - [Books](#books)
@@ -34,7 +35,7 @@ Contributions in any form are welcome!
 
 --- 
 
-# Getting Started
+# ▶ Getting Started
 ### Complete Guides
 - [Webtoon Basic Editing Tips](https://www.webtoons.com/en/tiptoon/lozolz/webtoon-editing-tips/viewer?title_no=1268&episode_no=24)
 - [Creator's Guide to Tapastic | By Tapas](https://tapas.io/series/Creator)
@@ -45,7 +46,7 @@ Contributions in any form are welcome!
 - [Creating a Webtoon Series! | By Talart (Youtube)](https://www.youtube.com/watch?v=_2VhYGSqVRA&list=PLbiI3az46e0q5QSqfpTBLe8DtkEWr2GLm)
 - [Creating Webtoon | By Archie The RedCat (Youtube)](https://www.youtube.com/watch?v=ciA9CwaMblg&list=PL5zciq5GgqUYFZPnLm0OibmPFp0cqPvj7)
 
-# Webtoon Elements
+# 🟩 Webtoon Elements
 ### Sizes and Formats
 - [Creating and Slicing Vertical Comics](https://tapas.io/episode/153301)
 - [Webtoons.com examples](https://www.webtoons.com/en/challenge/webtoon-format/list?title_no=109936&page=1) - actual example of thumbnails and vertical strip with sizes.
@@ -79,3 +80,7 @@ Contributions in any form are welcome!
   - Umberto
   - Trashhand
   - CC Splashdown
+  
+#### 3. SFX
+  - [Adding Sound Effects to Comics: 10 Tips](https://www.youtube.com/watch?v=tCVwFexvCT0)
+  - [Lettering In Adobe Illustrator](http://clintflickerlettering.blogspot.com/2010/11/lettering-in-adobe-illustrator-six.html?m=1)
