@@ -1,5 +1,8 @@
 # 📜 Awesome Webtoon Guidelines  
+<span>
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="awesome badge"/> 
+<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="pull requests welcome"/> 
+</span>
 
 A curated list of guidelines for making an awesome webtoon. 
 
