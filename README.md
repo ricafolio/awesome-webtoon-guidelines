@@ -15,6 +15,7 @@ Contributions in any form are welcome!
 # 📜 Table of Content
 ### Getting Started
 - [Complete Guides](#complete-guides)
+- [Webtoon Creation Process By Creators](#webtoon-creation-process-by-creators)
 ### Webtoon Elements
 - [Sizes and Formats](#sizes-and-formats)
 - [Typesetting](#typesetting)
@@ -36,7 +37,7 @@ Contributions in any form are welcome!
 --- 
 
 # ▶ Getting Started
-### Complete Guides
+### <div class="text-purple">Complete Guides</div>
 - [Webtoon Basic Editing Tips](https://www.webtoons.com/en/tiptoon/lozolz/webtoon-editing-tips/viewer?title_no=1268&episode_no=24)
 - [Creator's Guide to Tapastic | By Tapas](https://tapas.io/series/Creator)
 - [Making Comics for both Print and Webtoon | By Clip Studio](https://tips.clip-studio.com/en-us/articles/2812)
@@ -45,6 +46,10 @@ Contributions in any form are welcome!
 - [How to Make Comics (or Manga) | By Ahkward Kat](https://www.webtoons.com/en/challenge/how-to-make-comics-or-manga/list?title_no=110181)
 - [Creating a Webtoon Series! | By Talart (Youtube)](https://www.youtube.com/watch?v=_2VhYGSqVRA&list=PLbiI3az46e0q5QSqfpTBLe8DtkEWr2GLm)
 - [Creating Webtoon | By Archie The RedCat (Youtube)](https://www.youtube.com/watch?v=ciA9CwaMblg&list=PL5zciq5GgqUYFZPnLm0OibmPFp0cqPvj7)
+
+### Webtoon Creation Process By Creators
+- [Space boy - Behind the scenes | By Stephen McCranie](https://www.webtoons.com/en/sf/space-boy/qa-2/viewer?title_no=400&episode_no=45&webtoonType=WEBTOON)
+
 
 # 🟩 Webtoon Elements
 ### Sizes and Formats
@@ -84,3 +89,10 @@ Contributions in any form are welcome!
 #### 3. SFX
   - [Adding Sound Effects to Comics: 10 Tips](https://www.youtube.com/watch?v=tCVwFexvCT0)
   - [Lettering In Adobe Illustrator](http://clintflickerlettering.blogspot.com/2010/11/lettering-in-adobe-illustrator-six.html?m=1)
+
+
+### Panels
+- [Tips for Creating Vertical Scrolling Webtoons](https://www.clipstudio.net/how-to-draw/archives/157055)
+- [Creating a Webtoon! Ep. 4: Starting to Panel! (Seriously How do I Panel?)](https://www.youtube.com/watch?v=xEgNtMDlxjg)
+- [How To Organize Your Panels](https://trevinoart.com/p3-webtoon-how-to-organize-your-panels/)
+- [My Secret Webtoon Tool || Webtoon Panel Tutorial](https://www.s-morishitastudio.com/my-secret-webtoon-tool-webtoon-panel-tutorial/)
