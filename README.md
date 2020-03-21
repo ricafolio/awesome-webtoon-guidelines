@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="pull requests welcome"/> 
 </span>
 
-A curated list of guidelines for making an awesome webtoon. 
+A collection of guidelines for making an awesome webtoon. 
 
 Contributions in any form are welcome!
 
