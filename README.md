@@ -28,8 +28,8 @@ Contributions in any form are welcome!
 - [Panels](#panels)
 - [Dialogue Writing](#dialogue-writing)
 - [Publishing](#publishing)
+  - [Exporting](#exporting)
   - [Places to publish - Webtoon Providers](#webtoon-official-providers)
-  - [Slicing](#slicing)
 ### Other Resources
 - [Helpful tools](#helpful-tools)
 - [Digital Art Programs](#digital-art-programs)
@@ -126,3 +126,8 @@ Contributions in any form are welcome!
 * [动漫之家(dmzj)](https://www.dmzj.com/index.html)
 * [漫漫漫画(manmanapp)](https://www.manmanapp.com/)
 * [微博动漫(manhua by weibo)](http://manhua.weibo.com/)
+
+
+### Helpful Tools
+* [Online Image Slicer](https://knicknic.github.io/croppy/) - Image slicer designed for Webtoons.com & Tapas format
+* [Image Slicer Photoshop Script](https://twitter.com/mongrelmarie/status/1058234597563985920?lang=en) - Automatic image slicer for photoshop (additional tutorial in replies)
