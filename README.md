@@ -40,7 +40,7 @@ Contributions in any form are welcome!
 --- 
 
 # ▶ Getting Started
-### <div class="text-purple">Complete Guides</div>
+### `Complete Guides`
 - [Webtoon Basic Editing Tips](https://www.webtoons.com/en/tiptoon/lozolz/webtoon-editing-tips/viewer?title_no=1268&episode_no=24)
 - [Creator's Guide to Tapastic | By Tapas](https://tapas.io/series/Creator)
 - [Making Comics for both Print and Webtoon | By Clip Studio](https://tips.clip-studio.com/en-us/articles/2812)
@@ -50,7 +50,7 @@ Contributions in any form are welcome!
 - [Creating a Webtoon Series! | By Talart (Youtube)](https://www.youtube.com/watch?v=_2VhYGSqVRA&list=PLbiI3az46e0q5QSqfpTBLe8DtkEWr2GLm)
 - [Creating Webtoon | By Archie The RedCat (Youtube)](https://www.youtube.com/watch?v=ciA9CwaMblg&list=PL5zciq5GgqUYFZPnLm0OibmPFp0cqPvj7)
 
-### Webtoon Creation Process By Creators
+### `Webtoon Creation Process By Creators`
 - [Space boy - Behind the scenes | By Stephen McCranie](https://www.webtoons.com/en/sf/space-boy/qa-2/viewer?title_no=400&episode_no=45&webtoonType=WEBTOON)
 
 
@@ -76,23 +76,17 @@ Contributions in any form are welcome!
   - [Typography Tutorial: Leading, Kerning, Tracking](https://www.bigstockphoto.com/blog/uncategorized/typography-tutorial-leading-kerning-tracking/)
 
 #### 2. Free fonts
-  ***Dialogue***
-  - CC Wild Words
-  - CC Astro City
-  - CC Jim Lee
-  - CC Kiss and Tell
-  - CC Dear Diary
-  - Anime ace
-  - Playtime with Hot Toddies
-  - Back Issues BB
+| Dialogue  | SFX | Handwritten |
+| ----- | ----- | ----- | 
+| CC Wild Words | Umberto | Augie |
+| CC Astro City | Trashhand | 
+| CC Jim Lee | CC Splashdown |
+| CC Kiss and Tell |
+| CC Dear Diary |
+| Anime ace |
+| Playtime with Hot Toddies |
+| Back Issues BB |
 
-  ***Handwritten***
-  - Augie
-
-  ***SFX***
-  - Umberto
-  - Trashhand
-  - CC Splashdown
   
 #### 3. SFX
   - [Adding Sound Effects to Comics: 10 Tips](https://www.youtube.com/watch?v=tCVwFexvCT0)
@@ -101,29 +95,15 @@ Contributions in any form are welcome!
 ### `Publishing`
 **Webtoon Official Providers**
 
-#### English `EN`
-* [LINE Webtoon](https://www.webtoons.com/en/)
-* [Tapas](https://https://tapas.io/)
-* [Lezhin](https://www.lezhin.com/en)
-* [Toomics](https://toomics.com/en/)
-* [Webcomics](http://www.webcomicsapp.com/)
-* [Torycomics](https://www.torycomics.com/)
-
-#### Korean `KR`
-* [네이버 웹툰(Naver Comics)](https://comic.naver.com/)
-* [다음웹툰(Daum Webtoon)](http://webtoon.daum.net/)
-* [레진코믹스(Lezhin Comics)](https://www.lezhin.com/ko)
-* [저스툰코미코(Justoon)](https://www.justoon.co.kr/)
-* [투믹스(Toomics)](https://www.toomics.com/)
-
-#### Chinese `CN`
-* [腾讯动漫](https://ac.qq.com/)
-* [快看漫画(kuaikanmanhua)](https://www.kuaikanmanhua.com/)
-* [comico](http://www.comico.com.tw/)
-* [咚漫漫画(dongmanmanhua)](https://www.dongmanmanhua.cn/)
-* [动漫之家(dmzj)](https://www.dmzj.com/index.html)
-* [漫漫漫画(manmanapp)](https://www.manmanapp.com/)
-* [微博动漫(manhua by weibo)](http://manhua.weibo.com/)
+| English `EN` | Korean `KR` | Chinese `CN` |
+| ----- | ----- | ----- | 
+| [LINE Webtoon](https://www.webtoons.com/en/)* | [네이버 웹툰(Naver Comics)](https://comic.naver.com/)* | [咚漫漫画(dongmanmanhua)](https://www.dongmanmanhua.cn/)* |
+| [Tapas](https://https://tapas.io/) | [다음웹툰(Daum Webtoon)](http://webtoon.daum.net/) | [腾讯动漫](https://ac.qq.com/) |
+| [Lezhin](https://www.lezhin.com/en)* | [레진코믹스(Lezhin Comics)](https://www.lezhin.com/ko)* | [快看漫画(kuaikanmanhua)](https://www.kuaikanmanhua.com/) |
+| [Toomics](https://toomics.com/en/)* | [투믹스(Toomics)](https://www.toomics.com/)* | [comico](http://www.comico.com.tw/) |
+| [Webcomics](http://www.webcomicsapp.com/) | [저스툰코미코(Justoon)](https://www.justoon.co.kr/) | [动漫之家(dmzj)](https://www.dmzj.com/index.html) |
+| [Torycomics](https://www.torycomics.com/) | | [漫漫漫画(manmanapp)](https://www.manmanapp.com/)|
+| | | [微博动漫(manhua by weibo)](http://manhua.weibo.com/)
 
 
 ### `Helpful Tools`
