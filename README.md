@@ -21,11 +21,11 @@ Contributions in any form are welcome!
 - [Webtoon Creation Process By Creators](#webtoon-creation-process-by-creators)
 ### Webtoon Elements
 - [Sizes and Formats](#sizes-and-formats)
+- [Panels](#panels)
 - [Typesetting](#typesetting)
   - [Lettering and Balloons](#1-lettering-and-balloons)
   - [Free fonts](#2-free-fonts)
   - [SFX](#3-SFX)
-- [Panels](#panels)
 - [Dialogue Writing](#dialogue-writing)
 - [Publishing](#publishing)
   - [Exporting](#exporting)
@@ -55,12 +55,18 @@ Contributions in any form are welcome!
 
 
 # 🟩 Webtoon Elements
-### Sizes and Formats
+### `Sizes and Formats`
 - [Creating and Slicing Vertical Comics](https://tapas.io/episode/153301)
 - [Webtoons.com examples](https://www.webtoons.com/en/challenge/webtoon-format/list?title_no=109936&page=1) - actual example of thumbnails and vertical strip with sizes.
 - [How to Pick the Right Image File Type | Tapas Guide](https://tapas.io/episode/188280) - for exporting your image and picking the right file type
 
-### Typesetting
+### `Panels`
+- [Tips for Creating Vertical Scrolling Webtoons](https://www.clipstudio.net/how-to-draw/archives/157055)
+- [Creating a Webtoon! Ep. 4: Starting to Panel! (Seriously How do I Panel?)](https://www.youtube.com/watch?v=xEgNtMDlxjg)
+- [How To Organize Your Panels](https://trevinoart.com/p3-webtoon-how-to-organize-your-panels/)
+- [My Secret Webtoon Tool || Webtoon Panel Tutorial](https://www.s-morishitastudio.com/my-secret-webtoon-tool-webtoon-panel-tutorial/)
+
+### `Typesetting`
 #### 1. Lettering and Balloons
   - [AnonBlack's Typesetting Guide](http://mangafox.today/anonblacks-typesetting-guide-webtoon-chapter-203#1)
   - [Comic Book Lettering Grammar & Tradition](https://blambot.com/pages/comic-book-grammar-tradition)
@@ -70,7 +76,6 @@ Contributions in any form are welcome!
   - [Typography Tutorial: Leading, Kerning, Tracking](https://www.bigstockphoto.com/blog/uncategorized/typography-tutorial-leading-kerning-tracking/)
 
 #### 2. Free fonts
-
   ***Dialogue***
   - CC Wild Words
   - CC Astro City
@@ -93,15 +98,8 @@ Contributions in any form are welcome!
   - [Adding Sound Effects to Comics: 10 Tips](https://www.youtube.com/watch?v=tCVwFexvCT0)
   - [Lettering In Adobe Illustrator](http://clintflickerlettering.blogspot.com/2010/11/lettering-in-adobe-illustrator-six.html?m=1)
 
-
-### Panels
-- [Tips for Creating Vertical Scrolling Webtoons](https://www.clipstudio.net/how-to-draw/archives/157055)
-- [Creating a Webtoon! Ep. 4: Starting to Panel! (Seriously How do I Panel?)](https://www.youtube.com/watch?v=xEgNtMDlxjg)
-- [How To Organize Your Panels](https://trevinoart.com/p3-webtoon-how-to-organize-your-panels/)
-- [My Secret Webtoon Tool || Webtoon Panel Tutorial](https://www.s-morishitastudio.com/my-secret-webtoon-tool-webtoon-panel-tutorial/)
-
-### Publishing
-### Webtoon Official Providers
+### `Publishing`
+**Webtoon Official Providers**
 
 #### English `EN`
 * [LINE Webtoon](https://www.webtoons.com/en/)
@@ -128,6 +126,6 @@ Contributions in any form are welcome!
 * [微博动漫(manhua by weibo)](http://manhua.weibo.com/)
 
 
-### Helpful Tools
+### `Helpful Tools`
 * [Online Image Slicer](https://knicknic.github.io/croppy/) - Image slicer designed for Webtoons.com & Tapas format
 * [Image Slicer Photoshop Script](https://twitter.com/mongrelmarie/status/1058234597563985920?lang=en) - Automatic image slicer for photoshop (additional tutorial in replies)
