@@ -15,7 +15,7 @@ Contributions in any form are welcome!
 
 --- 
 
-# 📜 Table of Content
+# 📑 Table of Content
 ### Getting Started
 - [Complete Guides](#complete-guides)
 - [Webtoon Creation Process By Creators](#webtoon-creation-process-by-creators)
@@ -29,7 +29,7 @@ Contributions in any form are welcome!
 - [Dialogue Writing](#dialogue-writing)
 - [Publishing](#publishing)
   - [Exporting](#exporting)
-  - [Places to publish - Webtoon Providers](#webtoon-official-providers)
+  - [Places to publish - Webtoon Providers List](#webtoon-providers)
 ### Other Resources
 - [Helpful tools](#helpful-tools)
 - [Digital Art Programs](#digital-art-programs)
@@ -93,7 +93,7 @@ Contributions in any form are welcome!
   - [Lettering In Adobe Illustrator](http://clintflickerlettering.blogspot.com/2010/11/lettering-in-adobe-illustrator-six.html?m=1)
 
 ### `Publishing`
-**Webtoon Official Providers**
+**Webtoon Providers**
 
 | English `EN` | Korean `KR` | Chinese `CN` |
 | ----- | ----- | ----- | 
