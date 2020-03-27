@@ -104,13 +104,13 @@ Contributions in any form are welcome!
 | [Torycomics](https://www.torycomics.com/) | | [漫漫漫画(manmanapp)](https://www.manmanapp.com/)|
 | | | [微博动漫(manhua by weibo)](http://manhua.weibo.com/)
 
+## Other Resources
 
 ### `Helpful Tools`
 * [Online Image Slicer](https://knicknic.github.io/croppy/) - Image slicer designed for Webtoons.com & Tapas format
 * [Image Slicer Photoshop Script](https://twitter.com/mongrelmarie/status/1058234597563985920?lang=en) - Automatic image slicer for photoshop (additional tutorial in replies)
 
-
-## Artist Communities
+### `Artist Communities`
 - [Tapas Forum](https://forums.tapas.io/)
 - [r/Webtoons](http://reddit.com/r/webtoons)
 - [r/WebtoonCanvas](https://www.reddit.com/r/WebtoonCanvas/)
