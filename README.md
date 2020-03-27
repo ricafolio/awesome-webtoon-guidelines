@@ -32,7 +32,6 @@ Contributions in any form are welcome!
   - [Places to publish - Webtoon Providers List](#webtoon-providers)
 ### Other Resources
 - [Helpful tools](#helpful-tools)
-- [Digital Art Programs](#digital-art-programs)
 - [Artist Communities](#artist-communities)
 - [Books](#books)
 - [Newsletter](#newsletter)
@@ -109,3 +108,11 @@ Contributions in any form are welcome!
 ### `Helpful Tools`
 * [Online Image Slicer](https://knicknic.github.io/croppy/) - Image slicer designed for Webtoons.com & Tapas format
 * [Image Slicer Photoshop Script](https://twitter.com/mongrelmarie/status/1058234597563985920?lang=en) - Automatic image slicer for photoshop (additional tutorial in replies)
+
+
+## Artist Communities
+- [Tapas Forum](https://forums.tapas.io/)
+- [r/Webtoons](http://reddit.com/r/webtoons)
+- [r/WebtoonCanvas](https://www.reddit.com/r/WebtoonCanvas/)
+- [Deviantart Forum](https://forum.deviantart.com/)
+- [Discord servers tagged with webtoon](https://disboard.org/servers/tag/webtoon)
