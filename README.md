@@ -69,7 +69,7 @@ There are three things that sets webtoons apart from regular comics: each episod
 
 ### Typesetting
 #### 1. Lettering and Balloons
-  - [AnonBlack's Typesetting Guide](http://mangafox.today/anonblacks-typesetting-guide-webtoon-chapter-203#1)
+  - [AnonBlack's Typesetting Guide](https://web.archive.org/web/20181214030153/http://prettyanonymo.us/index.php/scanlation-resources/anonblacks-typesetting-guide/)
   - [Comic Book Lettering Grammar & Tradition](https://blambot.com/pages/comic-book-grammar-tradition)
   - [insidescanlation's Typesetting Guide](https://www.insidescanlation.com/etc/how-to-edit-manga-with-photoshop/rawr/editguide/2.html)
   - [10 Mistakes Made by Amateur Letterers](http://beyondthebunker.com/uncategorized/10-mistakes-made-by-amateur-letterers/)
