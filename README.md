@@ -55,8 +55,6 @@ There are three things that sets webtoons apart from regular comics: each episod
 ### Webtoon Creation Process By Creators
 - [Space boy - Behind the scenes | By Stephen McCranie](https://www.webtoons.com/en/sf/space-boy/qa-2/viewer?title_no=400&episode_no=45&webtoonType=WEBTOON)
 
----------------------------
-
 ## Webtoon Elements
 ### Sizes and Formats
 - [Creating and Slicing Vertical Comics](https://tapas.io/episode/153301)
